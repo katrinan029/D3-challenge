@@ -29,3 +29,20 @@ body {
   margin: 0;
   font-size: 16px;
 }
+
+.tooltip {
+  background: skyblue;
+  padding: 4px;
+  font-size: 12px;
+  border-radius: .1cm;
+}
+
+.title {
+  background: rgb(80,158,201);
+  background: linear-gradient(0deg, rgba(80,158,201,1) 0%, rgba(45,253,198,1) 100%);
+
+}
+.col-md-12 {
+  margin: 10px;
+}
+
